@@ -1,0 +1,26 @@
+{
+  "name": "jest-custom-reporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "puppeteer": "^1.18.1",
+    "puppeteer-screenshot-tester": "^1.1.0"
+  },
+  "jest": {
+    "extraGlobals": [
+      "Math"
+    ],
+    "reporters": [
+      "default",
+      "./reporter/reporter.js"
+    ]
+  }
+}

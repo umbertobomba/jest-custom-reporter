@@ -1,0 +1,106 @@
+{
+    "failureMessage": null,
+    "numFailingTests": 0,
+    "numPassingTests": 3,
+    "numPendingTests": 0,
+    "numTodoTests": 0,
+    "perfStats": {
+        "end": 1562679835369,
+        "start": 1562679812312
+    },
+    "snapshot": {
+        "added": 0,
+        "fileDeleted": false,
+        "matched": 0,
+        "unchecked": 0,
+        "unmatched": 0,
+        "updated": 0,
+        "uncheckedKeys": []
+    },
+    "testFilePath": "/Users/gilbertoli/Documents/_dev/jest-custom-reporter/tests/screenhsot.test.js",
+    "testResults": [
+        {
+            "ancestorTitles": [
+                "Football live view"
+            ],
+            "duration": 8264,
+            "failureMessages": [],
+            "fullName": "Football live view football-liveView-nV",
+            "location": null,
+            "numPassingAsserts": 0,
+            "status": "passed",
+            "title": "football-liveView-nV"
+        },
+        {
+            "ancestorTitles": [
+                "Football live view"
+            ],
+            "duration": 8310,
+            "failureMessages": [],
+            "fullName": "Football live view football-liveView-nP",
+            "location": null,
+            "numPassingAsserts": 0,
+            "status": "passed",
+            "title": "football-liveView-nP"
+        },
+        {
+            "ancestorTitles": [
+                "Hockey results view"
+            ],
+            "duration": 5417,
+            "failureMessages": [],
+            "fullName": "Hockey results view hockey-resultsView-playoffFinal",
+            "location": null,
+            "numPassingAsserts": 0,
+            "status": "passed",
+            "title": "hockey-resultsView-playoffFinal"
+        }
+    ],
+    "skipped": false,
+    "leaks": false
+}
+
+[
+    {
+        "Football live view": [
+            {
+                "ancestorTitles": [
+                    "Football live view"
+                ],
+                "duration": 8661,
+                "failureMessages": [],
+                "fullName": "Football live view football-liveView-nV",
+                "location": null,
+                "numPassingAsserts": 0,
+                "status": "passed",
+                "title": "football-liveView-nV"
+            },
+            {
+                "ancestorTitles": [
+                    "Football live view"
+                ],
+                "duration": 9736,
+                "failureMessages": [],
+                "fullName": "Football live view football-liveView-nP",
+                "location": null,
+                "numPassingAsserts": 0,
+                "status": "passed",
+                "title": "football-liveView-nP"
+            }
+        ],
+        "Hockey results view": [
+            {
+                "ancestorTitles": [
+                    "Hockey results view"
+                ],
+                "duration": 5233,
+                "failureMessages": [],
+                "fullName": "Hockey results view hockey-resultsView-playoffFinal",
+                "location": null,
+                "numPassingAsserts": 0,
+                "status": "passed",
+                "title": "hockey-resultsView-playoffFinal"
+            }
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "football": {
+            "liveView": [
+                {
+                    "name": "football-liveView-nV",
+                    "url": "https://test.event.rc.swisstxt.ch/feature/SRC-3711_integrate_new_ticker/srf/football.html?eventId=798579"
+                },
+                {
+                    "name": "football-liveView-nP",
+                    "url": "https://test.event.rc.swisstxt.ch/feature/SRC-3711_integrate_new_ticker/srf/football.html?eventId=798577"
+                },
+                {
+                    "name": "football-liveView-finished",
+                    "url": "https://test.event.rc.swisstxt.ch/feature/SRC-3711_integrate_new_ticker/srf/football.html?eventId=396153"
+                },
+                {
+                    "name": "football-liveView-afterOvertime",
+                    "url": "https://test.event.rc.swisstxt.ch/feature/SRC-3711_integrate_new_ticker/srf/football.html?eventId=304376"
+                },
+                {
+                    "name": "football-liveView-redCard",
+                    "url": "https://test.event.rc.swisstxt.ch/feature/SRC-3711_integrate_new_ticker/srf/football.html?eventId=295618"
+                },
+                {
+                    "name": "football-liveView-lineupMoreThanOneGoal",
+                    "url": "https://test.event.rc.swisstxt.ch/feature/SRC-3711_integrate_new_ticker/srf/football.html?eventId=295622"
+                },
+                {
+                    "name": "football-liveView-yellowRedCard",
+                    "url": "https://test.event.rc.swisstxt.ch/feature/SRC-3711_integrate_new_ticker/srf/football.html?eventId=295618"
+                }
+            ],
+            "resultsView": [
+                {
+                    "name": "football-resultsView-roundBasedLiveAndFinished",
+                    "url": "https://test.event.rc.swisstxt.ch/feature/SRC-3711_integrate_new_ticker/srf/results.html?date=2016-10-26#football/super-league/Round-1-35"
+                },
+                {
+                    "name": "football-resultsView-tournamentView",
+                    "url": "https://test.event.rc.swisstxt.ch/feature/SRC-3711_integrate_new_ticker/srf/results.html?date=2016-10-26#football/dfb-pokal"
+                },
+                {
+                    "name": "football-resultsView-roundBasedDropdown",
+                    "url": "https://test.event.rc.swisstxt.ch/feature/SRC-3711_integrate_new_ticker/srf/results.html?date=2019-06-12#football/1-liga/Phase-1-3/Round-2-17"
+                }
+            ]
+        },
+        "hockey": {
+            "liveView": [
+                {
+                    "name": "hockey-liveView-finished",
+                    "url": "https://test.event.rc.swisstxt.ch/feature/SRC-3711_integrate_new_ticker/srf/hockey.html?eventId=768021"
+                },
+                {
+                    "name": "hockey-liveView-afterOvertime",
+                    "url": "https://test.event.rc.swisstxt.ch/feature/SRC-3711_integrate_new_ticker/srf/hockey.html?eventId=769127"
+                }
+            ],
+            "resultsView": [
+                {
+                    "name": "hockey-resultsView-playoffFinal",
+                    "url": "https://test.event.rc.swisstxt.ch/feature/SRC-3711_integrate_new_ticker/srf/results.html?date=2019-06-12#hockey/nla"
+                }
+            ]
+        },
+        "liveToday": [
+            {
+                "name": "liveToday - overtimeAndPenalty",
+                "url": "https://test.event.rc.swisstxt.ch/feature/SRC-3711_integrate_new_ticker/srf/results.html?date=2016-10-26"
+            }
+        ]   
+    }
+]

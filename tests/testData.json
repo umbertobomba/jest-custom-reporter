@@ -1,0 +1,58 @@
+[
+    {
+        "football": {
+            "liveView": [
+                {
+                    "name": "football-liveView-nP",
+                    "url": "http://test.event.rc.swisstxt.ch/develop/srf/football.html?eventId=961341"
+                }
+            ],
+            "resultsView": [
+                {
+                    "name": "football-resultsView-roundBasedStates01",
+                    "url": "http://test.event.rc.swisstxt.ch/develop/srf/results.html#football/test-foot/Phase-1-0/Round-2-1"
+                },
+                {
+                    "name": "football-resultsView-roundBasedStates02",
+                    "url": "http://test.event.rc.swisstxt.ch/develop/srf/results.html#football/test-foot/Phase-1-0/Round-2-1"
+                },
+                {
+                    "name": "football-resultsView-groupPhase",
+                    "url": "http://test.event.rc.swisstxt.ch/develop/srf/results.html#football/test-foot/Phase-1-0/Round-2-1"
+                }
+            ]
+        },
+        "hockey": {
+            "liveView": [
+                {
+                    "name": "hockey-liveView-finished",
+                    "url": "https://test.event.rc.swisstxt.ch/feature/SRC-3711_integrate_new_ticker/srf/hockey.html?eventId=768021"
+                },
+                {
+                    "name": "hockey-liveView-afterOvertime",
+                    "url": "https://test.event.rc.swisstxt.ch/feature/SRC-3711_integrate_new_ticker/srf/hockey.html?eventId=769127"
+                }
+            ],
+            "resultsView": [
+                {
+                    "name": "hockey-resultsView-playoffFinal",
+                    "url": "https://test.event.rc.swisstxt.ch/feature/SRC-3711_integrate_new_ticker/srf/results.html?date=2019-06-12#hockey/nla"
+                },
+                {
+                    "name": "hockey-resultsView-cup",
+                    "url": "https://test.event.rc.swisstxt.ch/feature/SRC-3711_integrate_new_ticker/srf/results.html?date=2019-06-12#hockey/nla"
+                }
+            ]
+        },
+        "liveToday": [
+            {
+                "name": "liveToday - overtimeAndPenalty",
+                "url": "https://test.event.rc.swisstxt.ch/feature/SRC-3711_integrate_new_ticker/srf/results.html?date=2016-10-26"
+            },
+            {
+                "name": "liveToday - live",
+                "url": "https://test.event.rc.swisstxt.ch/feature/SRC-3711_integrate_new_ticker/srf/results.html?date=2016-10-26"
+            }
+        ]   
+    }
+]
